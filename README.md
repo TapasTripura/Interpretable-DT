@@ -1,4 +1,4 @@
-# Interpretable-DT
+# Probabilistic-predictive-interpretable-digital-twin
 This repository contains the python codes of the paper 
   > + Tripura, T., Desai, A. S., Adhikari, S., & Chakraborty, S. (2022). Probabilistic machine learning based predictive and interpretable digital twin for dynamical systems. arXiv preprint arXiv:2212.09240. [ArXiv](https://arxiv.org/abs/2212.09240)
 
